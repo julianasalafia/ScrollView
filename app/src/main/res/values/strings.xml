@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Image Editing</string>
+    <string name="image_description">League of Legends illustration</string>
+    <string name="author">J. Salafia</string>
+    <string name="title">Learn about Image Editing</string>
+    <string name="date">2022/05/14</string>
+
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vestibulum elementum eros ac volutpat.
+        Praesent vitae leo vel felis faucibus congue. Sed arcu nisi, dignissim nec porttitor sed, aliquam a diam. Vivamus rutrum magna ipsum,
+        sed hendrerit ex mollis a. Morbi vitae tempus enim. Maecenas quis nunc nunc. \n\nNunc quis dui dolor. Praesent pretium ultrices mollis.
+        Etiam faucibus dolor eget nisi rhoncus sodales. Quisque semper ultrices libero et suscipit. Suspendisse euismod ante nisl,
+        ac interdum lectus mattis quis. Aenean suscipit nisl faucibus, luctus dui at, luctus ipsum. Cras non euismod lacus.
+        Etiam neque massa, tempor at pharetra eget, interdum sit amet sapien.Integer vulputate euismod ex.
+        \n\nVestibulum in lorem tellus. Aliquam erat volutpat. Morbi molestie augue vel accumsan sollicitudin.
+        Donec eleifend eleifend nisl maximus molestie. Fusce sed pretium tellus. Aliquam pretium vehicula tincidunt.
+        Donec ac ultricies orci. Sed tincidunt elit at nisl efficitur, non pulvinar risus semper.</string>
+
+    <string name="button_back">back</string>
+    <string name="button_next">next</string>
+</resources>
