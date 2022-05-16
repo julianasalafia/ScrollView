@@ -12,7 +12,7 @@ In this exercise I made my first layout with scroll view.
 
 ---
 
-### Know-how
+### Tools
 
 - [Java](https://www.java.com/pt-BR/)
 - [Android Studio 3.5](https://developer.android.com/studio?hl=pt-br)
